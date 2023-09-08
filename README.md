@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 @@HCI Researcher@@
 + living in Palo Alto, CA
-- 25 years old
++ hobbies are sports🏀⚽️, kpop💃🏻, games🎮
 ! working at Stanford Institute for Human-Centered Artificial Intelligence
-# doing research in human-AI interaction, LLMs, Extended reality
+! looking for PhD or software engineer opportunities 
+# doing research in human-AI interaction, LLMs, Extended Reality
 ```
 
-<h2>👨‍💻 Programming and Frameworks</h2>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
@@ -39,3 +39,10 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&style=flat"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+
+<h3>💻 GitHub Profile Stats</h3>
+<p>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=imerlwx&theme=dark)](https://git.io/streak-stats)
+
+</p>
