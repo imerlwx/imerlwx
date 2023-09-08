@@ -44,15 +44,20 @@ Here are some ideas to get you started:
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
-<h3>💻 GitHub Profile Stats</h3>
 <p>
 <a href="#"><img alt="imerlwx's Github Streak" src="https://streak-stats.demolab.com?user=imerlwx&theme=transparent&hide_border=true&mode=weekly&card_width=400&ring=EB6A75&fire=EB6A75&currStreakNum=50EBE8&sideLabels=EB6A75&sideNums=50EBE8&currStreakLabel=50EBE8" height="192px"/></a>
 <a href="#"><img alt="imerlwx's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=imerlwx&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=EB6A75&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 </p>
 
-<h3 align="left"> 📫 How to reach me:</h3>
-<p align="left">
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+<p align="center">
 <a href="https://twitter.com/LiWengxi" target="blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=flat"></a>
 <a href="www.linkedin.com/in/wengxi-li" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"></a>
 <a href="wengxili@umich.edu" target="blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat"></a>
