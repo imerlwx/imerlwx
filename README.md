@@ -49,6 +49,14 @@ Here are some ideas to get you started:
 <a href="#"><img alt="imerlwx's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=imerlwx&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=EB6A75&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<p align="center"> <img src="https://profile-counter.glitch.me/{imerlwx}/count.svg" alt="imerlwx" /> </p>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -62,11 +70,3 @@ Here are some ideas to get you started:
 <a href="wengxili@umich.edu" target="blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat"></a>
 </p>
 <br>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<p align="center"> <img src="https://profile-counter.glitch.me/{imerlwx}/count.svg" alt="imerlwx" /> </p>
