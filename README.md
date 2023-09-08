@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h3>💻 GitHub Profile Stats</h3>
 <p>
-<a href="#"><img alt="imerlwx's Github Streak" src="https://streak-stats.demolab.com?user=imerlwx&theme=radical&bg_color=00000000&border_radius=8&mode=weekly" height="192px"/></a>
-<a href="#"><img alt="imerlwx's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=imerlwx&langs_count=8&layout=compact&theme=transparent&border_radius=8&bg_color=00000000&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="#"><img alt="imerlwx's Github Streak" src="https://streak-stats.demolab.com?user=imerlwx&theme=transparent&hide_border=true&mode=weekly&card_width=430&ring=EB6A75&fire=EB6A75&currStreakNum=E1EB0A&sideLabels=EB6A75&sideNums=E8EB11 " height="192px"/></a>
+<a href="#"><img alt="imerlwx's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=imerlwx&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=EB6A75&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 </p>
