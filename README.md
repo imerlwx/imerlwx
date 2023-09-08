@@ -51,6 +51,14 @@ Here are some ideas to get you started:
 <br/>
 </p>
 
+<h3 align="left"> 📫 How to reach me:</h3>
+<p align="left">
+<a href="https://twitter.com/LiWengxi" target="blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=flat"></a>
+<a href="www.linkedin.com/in/wengxi-li" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"></a>
+<a href="wengxili@umich.edu" target="blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat"></a>
+</p>
+<br>
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
