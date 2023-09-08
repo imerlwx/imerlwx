@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 
 <h3>💻 GitHub Profile Stats</h3>
 <p>
-
-[![imerlwx's GitHub stats](https://github-readme-stats.vercel.app/api?username=imerlwx&show_icons=true&bg_color=00000000)](https://github.com/imerlwx/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imerlwx&theme=transparent)](https://git.io/streak-stats)
-
+<a href="#"><img alt="imerlwx's Github Streak" src="https://streak-stats.demolab.com?user=imerlwx&theme=transparent&hide_border=true" height="192px"/></a>
+<a href="#"><img alt="imerlwx's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=imerlwx&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
 </p>
