@@ -38,11 +38,14 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&style=flat"></a>
 <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&style=flat"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=flat"></a>
+<a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
 <h3>💻 GitHub Profile Stats</h3>
 <p>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=imerlwx&theme=dark)](https://git.io/streak-stats)
+
+[![imerlwx's GitHub stats](https://github-readme-stats.vercel.app/api?username=imerlwx&show_icons=true&bg_color=00000000)](https://github.com/imerlwx/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imerlwx&theme=transparent)](https://git.io/streak-stats)
 
 </p>
