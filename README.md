@@ -1,8 +1,6 @@
-### Hi there 👋 I am Wengxi👨🏻‍💻
-
 <!--
 **imerlwx/imerlwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 I am Wengxi👨🏻‍💻
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there 👋 I am Wengxi👨🏻‍💻</h1></summary>
+  </ul>
+</div>
 
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
