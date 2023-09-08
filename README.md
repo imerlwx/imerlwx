@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Wengxi👨🏻‍💻
 
 <!--
 **imerlwx/imerlwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
+
+@@HCI Researcher@@
++ living in Palo Alto, CA
+- 25 years old
+! working at Stanford Institute for Human-Centered Artificial Intelligence
+# doing research in human-AI interaction, large language models, computer vision
+```
